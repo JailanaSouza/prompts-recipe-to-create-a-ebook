@@ -1,15 +1,5 @@
 
 
-
--------
-
-
-<p align="center">
-<img 
-
-/>
-</p>
-
 # Projeto EBOOK Gerado por I.A.s
 
 
