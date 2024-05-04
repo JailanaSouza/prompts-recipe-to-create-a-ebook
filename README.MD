@@ -1,5 +1,5 @@
 <p align="center">
-   ""C:\Users\jaila\Downloads\capa  - Jailana Lima.png"" >
+   "C:\Users\jaila\Downloads\capa  - Jailana Lima.png" >
 </p>
 
 
