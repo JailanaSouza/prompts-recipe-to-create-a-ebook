@@ -1,6 +1,4 @@
-<p align="center">
-   "C:\Users\jaila\Downloads\capa  - Jailana Lima.png" >
-</p>
+
 
 
 -------
@@ -8,8 +6,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+
 />
 </p>
 
