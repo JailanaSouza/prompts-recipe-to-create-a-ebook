@@ -1,3 +1,4 @@
+<img src="https://github.com/JailanaSouza/prompts-recipe-to-create-a-ebook/blob/main/assets/capa%20%20-%20Jailana%20Lima.png" alt="Capa">
 
 
 # Projeto EBOOK Gerado por I.A.s
